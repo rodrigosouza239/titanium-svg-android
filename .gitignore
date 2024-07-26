@@ -28,6 +28,7 @@ libs/
 /android/.gradle
 /android/gradle/
 /android/.settings
+/android/dist/
 /android/launch-*
 /android/java-sources.txt
 
